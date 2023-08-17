@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Task#1 done
+        // Task#3 completed
         // Task#2 completed
     }
 
